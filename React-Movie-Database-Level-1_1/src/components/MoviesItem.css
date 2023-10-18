@@ -1,0 +1,8 @@
+section div {
+  background-color: rgb(1, 58, 1);
+  color: rgb(244, 248, 228);
+  padding: 10px;
+}
+.stern {
+  color: yellow !important;
+}
